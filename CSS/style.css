@@ -35,9 +35,9 @@ p {
 }
 
 div {
-    background-color: lightgrey;
+    background-color: #F0FFF0;
     width: 850px;
-    border: 3px solid slategray;
+    border: 3px solid slategrey;
     padding: 40px;
     margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
